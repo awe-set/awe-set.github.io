@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/javi/Documents/GitHub/the-javi-club/poem%20schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<poem xmlns="http://awe-set.github.io/ns/1.0">
+    <title>Let's Think of Eggs</title>
+    <author>
+        <name>
+            <first_name>Ogden</first_name>
+            <last_name>Nash</last_name>
+        </name>
+    </author>
+    <stanza>
+        <line>Let's think of eggs—</line>
+        <line>They have no leggs!</line>
+        <line>Chickens come from eggs,</line>
+        <line>But they have legs...</line>
+    </stanza>
+    <stanza>
+        <line>The plot thickens:</line>
+        <line>Eggs come from chickens</line>
+        <line> But have no legs under 'em—</line>
+        <line> What a conundrum!</line>
+    </stanza>
+</poem>
