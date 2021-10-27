@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Hello world!
+title: i don't know
 ---
 
-This is your first blog post--make it your own!
+here is why i don't know:
+* coding is hard
+* youtube
+* going to sleep at 2am
