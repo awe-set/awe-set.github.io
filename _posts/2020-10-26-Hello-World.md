@@ -1,6 +1,6 @@
 ---
 layout: post
-title: i don't know
+title: i don't know 10/27/2021
 ---
 
 here is why i don't know:
