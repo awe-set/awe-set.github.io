@@ -12,4 +12,4 @@ i hate peanut butter
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[javi.rosario@gmail.com](mailto:javi.rosario@gmail.com)
